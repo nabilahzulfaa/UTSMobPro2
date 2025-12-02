@@ -23,13 +23,12 @@
 
 ---
 
-## 👨‍🎓 Identitas Mahasiswa
+## 👨‍🎓 Identitas Penyusun
 
-Berikut adalah data penyusun tugas ini:
 
-| Nama Mahasiswa | NIM | Kelas |
+| Nama | NIM | Kelas |
 | :--- | :--- | :--- |
-| **[Isi Nama Kamu Disini]** | **[Isi NIM Disini]** | **[Isi Kelas Disini]** |
+| Nabilah Zulfaa Afifah | 24552012006 | TIF RP 23 CID B |
 
 ---
 
@@ -50,9 +49,9 @@ Aplikasi ini adalah aplikasi Al-Quran digital yang dikembangkan menggunakan **Fl
 ## 📸 Tangkapan Layar (Screenshots)
 
 <div align="center">
-  <img src="1.png" alt="Login" width="200" style="margin-right: 10px;">
-  <img src="2.png" alt="Register" width="200" style="margin-right: 10px;">
-  <img src="3.png" alt="About" width="200">
+  <img src="Screenshots/1.png" alt="Login" width="200" style="margin-right: 10px;">
+  <img src="Screenshots/2.png" alt="Register" width="200" style="margin-right: 10px;">
+  <img src="Screenshots/3.png" alt="About" width="200">
 </div>
 
 ---
