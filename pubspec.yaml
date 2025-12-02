@@ -1,0 +1,37 @@
+name: proyek_uts
+description: Project UAS Flutter bertema Aplikasi Quran.
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' 
+
+dependencies:
+  flutter:
+    sdk: flutter
+  quran_library: ^2.3.1
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Linter untuk analisis kode
+  flutter_lints: ^3.0.0
+
+# Bagian konfigurasi spesifik Flutter 
+flutter:
+  # The following line ensures that the Material Icons font is included with your application
+  uses-material-design: true
+
+assets:
+   - images/
+   - images/a_dot_burr.jpeg
+  
+fonts:
+   - family: Scherezade
+     fonts:
+      - asset: fonts/Scheherazade-Regular.ttf
+      - asset: fonts/Scheherazade-Bold.ttf
+        weight: 700
